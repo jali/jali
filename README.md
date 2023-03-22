@@ -2,7 +2,6 @@
 - 👀 Interested in Javascript, React, Redux-Saga, Typescript, SPA, Node, Python, AI, Cloud Computing, Data Science and Microservices
 - 🌱 Currently working on my MSc thesis 
 - 💞️ Looking to collaborate on achievement and collaboration projects and AI
-- 📫 Business inquiries: info@wadoha.com
 
 <!---
 jali/jali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
