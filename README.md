@@ -1,36 +1,22 @@
+Hi there, I'm Jalal 👋
+
 🚀 About Me
 
-I'm a Solution Architect and Software Engineer with over 21 years of experience in designing and implementing scalable, high-performance solutions. I specialize in microservices architecture, cloud computing, backend development, and data engineering.
-
-I'm passionate about driving continuous improvement, ensuring code quality, and designing robust, scalable architectures that align with business goals.
-
-💼 Experience & Interests
-
-Solution Architecture: Designing scalable and flexible solutions for modern applications.
-
-Backend Development: Expertise in Node.js, TypeScript, Express, FastAPI, Flask, Python.
-
-Cloud & DevOps: AWS, Kubernetes, EKS, CI/CD, Infrastructure as Code.
-
-Data Engineering: PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ, ElasticSearch.
-
-Security & Compliance: API security, authentication, privacy compliance.
-
-Tech Leadership: Collaborating with cross-functional teams, mentoring engineers, and advocating best practices.
+Solution Architect & Software Engineer with 21+ years of experience in microservices, cloud computing, backend development, and data engineering. Passionate about scalable architectures, code quality, and continuous improvement.
 
 🔧 Tech Stack
 
-Languages: JavaScript (Node.js), TypeScript, Python
+Languages: JavaScript (Node.js), TypeScript, Python, Java, Kotlin, PHP
 
-Frameworks: Express.js, API, Flask, React, Redux
+Frameworks: Express.js, REAT-API, Flask, React, Spring, Android
 
-Databases: PostgreSQL, MongoDB, Redis
+Databases: PostgreSQL, MongoDB, MySQL, Redis
 
-Cloud & DevOps: GCP, Azure, AWS, Kubernetes, Terraform, CI/CD Pipelines (Jenkins, GitHub Actions)
+Cloud & DevOps: AWS, Kubernetes, Terraform, CI/CD
 
-Messaging & Streaming: Kafka, RabbitMQ
+Messaging: Kafka, RabbitMQ
 
-Tools & Platforms: Prometheus, Grafana, Kong API Gateway, ElasticSearch
+Tools: Prometheus, Grafana, Kong API Gateway
 
 📫 Connect with Me
 
