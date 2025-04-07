@@ -2,7 +2,7 @@ Hi there, I'm Jalal 👋
 
 🚀 About Me
 
-Solution Architect & Software Engineer with 21+ years of experience in microservices, cloud computing, backend development, and data engineering. Passionate about scalable architectures, code quality, and continuous improvement.
+Solution Architect & Software Engineer with 24 years of experience in microservices, cloud computing, backend development, and data engineering. Passionate about scalable architectures, code quality, and continuous improvement.
 
 🔧 Tech Stack
 
