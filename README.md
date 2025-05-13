@@ -24,7 +24,9 @@ LinkedIn: [JalalMaqdisi](https://www.linkedin.com/in/jalalmaqdisi/)
 Twitter/X: [JalalMaqdisi](http://x.com/JalalMaqdisi)
 
 Projects:
+
 Flask URL shortener [wis.al](https://wis.al)
+
 Personal web page [jal.al](https://jal.al)
 
 Feel free to explore my repositories and projects! 🚀
